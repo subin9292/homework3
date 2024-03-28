@@ -12,7 +12,6 @@ void main() {
 	 
 	*plist[0] = 200; // 첫 배열 포인터가 가리키는 곳에 200 저장
 
-	printf("[----- [강수빈]  [2023078011] -----]\n\n");
 
 	printf("list[0]         = %d\n", list[0]); //list[0]값 출력
 	printf("&list[0]        = %p\n", &list[0]); //list[0]의 주소 출력

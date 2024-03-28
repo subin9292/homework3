@@ -10,7 +10,6 @@ void main() {
 
 	plist[0] = (int*)malloc(sizeof(int)); // 동적할당
 
-	printf("[----- [강수빈]  [2023078011] -----]\n\n");
 
 
 	printf("list[0] \t= %d\n", list[0]); // list[0]에 담긴 값(10) 출력
