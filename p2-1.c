@@ -16,6 +16,8 @@ void main(void) {
 	for (i = 0; i < MAX_SIZE; i++)  //0~99까지 배열 값 초기화
 		input[i] = i;
 
+	printf("[----- [강수빈]  [2023078011] -----]\n\n");
+
 
 	/* for checking call by reference */
 	printf("-----------------------------\n");
