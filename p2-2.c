@@ -5,7 +5,7 @@ void print_one(int* ptr, int rows);
 int main() {
 	int one[] = { 0,1,2,3,4 }; // 배열 초기화
 
-
+	printf("[----- [강수빈]  [2023078011] -----]\n\n");
 
 	printf("one		= %p\n", one); // 배열 one의 시작 주소 출력
 	printf("&one	= %p\n", &one); // 배열의 시작 주소 출력
